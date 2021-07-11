@@ -1,6 +1,6 @@
 
 
-![sideEmojiSmall](https://user-images.githubusercontent.com/76498844/125205004-b27ba300-e245-11eb-8902-b94d70d894e5.png) ### Hi there!
+### ![sideEmojiSmall](https://user-images.githubusercontent.com/76498844/125205004-b27ba300-e245-11eb-8902-b94d70d894e5.png) Hi there!
 
 My name is Hannah (she/hers) and I am a non-profit professional turned software engineer looking to use my technical skills to build exceptional products while giving back to my community.
 
