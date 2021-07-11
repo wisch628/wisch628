@@ -1,6 +1,4 @@
-
-
-### Hi there! ![helloImageSmall](https://user-images.githubusercontent.com/76498844/125205061-ff5f7980-e245-11eb-8465-cecd79ac5d7f.png)
+### Hi there! ![helloImageSmall](https://user-images.githubusercontent.com/76498844/125205091-2322bf80-e246-11eb-8a93-e3663b85015d.png)
 
 My name is Hannah (she/hers) and I am a non-profit professional turned software engineer looking to use my technical skills to build exceptional products while giving back to my community.
 
